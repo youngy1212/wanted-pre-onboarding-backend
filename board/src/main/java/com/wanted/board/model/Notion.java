@@ -18,7 +18,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-public class Board {
+public class Notion {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY) 
